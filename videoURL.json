@@ -1,47 +1,131 @@
 [
     {
-        "kannada":{
-            "id":0,
-            "stnds":[
+        "kannada": {
+            "id": 0,
+            "stnds": [
                 {
-                    "lablel":"8th Standard",
-                    "id":0,
-                    "subjects":[
+                    "lablel": "8 ನೇ ತರಗತಿ",
+                    "id": 0,
+                    "subjects": [
                         {
-                            "id":0,
-                            "name":"Kannada",
-                            "videos":[
+                            "id": 0,
+                            "name": "ಕನ್ನಡ",
+                            "videos": [
                                 {
-                                    "id":0,
-                                    "label":"Day-1",
-                                    "link":"https://www.youtube.com/embed/W-NUh7Zu2FE"
+                                    "id": 0,
+                                    "label": "Day-1",
+                                    "link": "https://www.youtube.com/embed/W-NUh7Zu2FE"
                                 },
                                 {
-                                    "id":1,
-                                    "label":"Day-2",
-                                    "link":"https://www.youtube.com/embed/W-NUh7Zu2FE"
-                                },{
-                                    "id":2,
-                                    "label":"Day-3",
-                                    "link":"https://www.youtube.com/embed/9-b3TX0ZLlE"
-                                },{
-                                    "id":3,
-                                    "label":"Day-4",
-                                    "link":"https://www.youtube.com/embed/9-b3TX0ZLlE"
+                                    "id": 1,
+                                    "label": "Day-2",
+                                    "link": "https://www.youtube.com/embed/W-NUh7Zu2FE"
+                                },
+                                {
+                                    "id": 2,
+                                    "label": "Day-3",
+                                    "link": "https://www.youtube.com/embed/9-b3TX0ZLlE"
+                                },
+                                {
+                                    "id": 3,
+                                    "label": "Day-4",
+                                    "link": "https://www.youtube.com/embed/9-b3TX0ZLlE"
                                 }
                             ]
                         }
                     ]
-                },{
-
+                },
+                {
+                    "lablel": "9 ನೇ ತರಗತಿ",
+                    "id": 1,
+                    "subjects": [ {
+                        "id": 0,
+                        "name": "ಕನ್ನಡ",
+                        "videos": [{
+                            "id": 5,
+                            "label": "Day-5",
+                            "link": "https://www.youtube.com/embed/W-NUh7Zu2FE"
+                        }]
+                        },{
+                        "id": 0,
+                        "name": "English",
+                        "videos": [{
+                            "id": 0,
+                            "label": "Day-1",
+                            "link": "https://www.youtube.com/embed/2nEz6z-h4lM"
+                        },{
+                            "id": 5,
+                            "label": "Day-5",
+                            "link": "https://www.youtube.com/embed/PvpRovUrsOo"
+                        }]
+                    },{
+                        "id": 0,
+                        "name": "ವಿಜ್ಞಾನ",
+                        "videos": [{
+                            "id": 3,
+                            "label": "Day-3",
+                            "link": "https://www.youtube.com/embed/Bsdpmfwsges"
+                        },{
+                            "id": 4,
+                            "label": "Day-4",
+                            "link": "https://www.youtube.com/embed/-BYw45cysYw"
+                        }]
+                    },{
+                        "id": 0,
+                        "name": "ಗಣಿತ",
+                        "videos": [{
+                            "id": 1,
+                            "label": "Day-1",
+                            "link": "https://www.youtube.com/embed/p51-kZC1K7w"
+                        },{
+                            "id": 3,
+                            "label": "Day-3",
+                            "link": "https://www.youtube.com/embed/uAuLn4HSnWw"
+                        }]
+                    },{
+                        "id": 0,
+                        "name": "ಸಮಾಜ ವಿಜ್ಞಾನ",
+                        "videos": [{
+                            "id": 0,
+                            "label": "Day-1",
+                            "link": "https://www.youtube.com/embed/N0HTGDQHH20"
+                        },{
+                            "id": 0,
+                            "label": "Day-2",
+                            "link": "https://www.youtube.com/embed/XaRNPjYpYCs"
+                        }]
+                    },{
+                        "id": 0,
+                        "name": "Hindi",
+                        "videos": [{
+                            "id": 4,
+                            "label": "Day-4",
+                            "link": "https://www.youtube.com/embed/oQM1HhbHUEk"
+                        }]
+                    }]
+                },
+                {
+                    "lablel": "10 ನೇ ತರಗತಿ",
+                    "id": 2,
+                    "subjects": []
                 }
             ]
         },
-        "english":{
-            "id":1,
-            "stnds":[
-                
-            ]
+        "english": {
+            "id": 1,
+            "stnds": [ {
+                "lablel": "8th Standard",
+                "id": 0,
+                "subjects": []
+            },{
+                "lablel": "9th Standard",
+                "id": 1,
+                "subjects": []
+            },{
+                "lablel": "10th Standard",
+                "id": 2,
+                "subjects": []
+            }]
         }
     }
 ]
