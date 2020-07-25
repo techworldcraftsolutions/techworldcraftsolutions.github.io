@@ -210,7 +210,7 @@
                             "label": "Day-5",
                             "link": "https://www.youtube.com/embed/X3SNv7x2_p0"
                         }]
-                    }{
+                    },{
                         "id": 0,
                         "name": "ಸಮಾಜ ವಿಜ್ಞಾನ",
                         "videos": [{
@@ -253,6 +253,7 @@
                             "id": 4,
                             "label": "Day-4",
                             "link": "https://www.youtube.com/embed/14Gi9S-APRE"
+                        }]
                         },{
                             "id": 0,
                             "name": "Urdu",
@@ -264,7 +265,8 @@
                     }]
                 }
             ]
-        },
+            
+        },   
         "english": {
             "id": 1,
             "stnds": [ {
