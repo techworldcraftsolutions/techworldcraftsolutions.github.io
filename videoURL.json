@@ -12,27 +12,82 @@
                             "name": "ಕನ್ನಡ",
                             "videos": [
                                 {
-                                    "id": 0,
-                                    "label": "Day-1",
-                                    "link": "https://www.youtube.com/embed/W-NUh7Zu2FE"
-                                },
-                                {
-                                    "id": 1,
-                                    "label": "Day-2",
-                                    "link": "https://www.youtube.com/embed/W-NUh7Zu2FE"
-                                },
-                                {
                                     "id": 2,
-                                    "label": "Day-3",
-                                    "link": "https://www.youtube.com/embed/9-b3TX0ZLlE"
-                                },
-                                {
-                                    "id": 3,
-                                    "label": "Day-4",
-                                    "link": "https://www.youtube.com/embed/9-b3TX0ZLlE"
+                                    "label": "Day-2",
+                                    "link": "https://www.youtube.com/embed/MItWynpPa7I"
                                 }
                             ]
+                        },
+                        {
+                            "id": 0,
+                            "name": "English",
+                            "videos": [{
+                                "id": 3,
+                                "label": "Day-3",
+                                "link": "https://www.youtube.com/embed/mmW_dmoeYQg"
+                            },{
+                                "id": 4,
+                                "label": "Day-4",
+                                "link": "https://www.youtube.com/embed/hZHBGeDbOQ4"
+                            }]
+                            },{
+                            "id": 0,
+                            "name": "ಗಣಿತ",
+                            "videos": [{
+                                "id": 1,
+                                "label": "Day-1",
+                                "link": "https://www.youtube.com/embed/MYNbJHSIhdg"
+                            },{
+                                "id": 4,
+                                "label": "Day-4",
+                                "link": "https://www.youtube.com/embed/Edl9naB7ZXA"
+                            }]
+                        },{
+                            "id": 0,
+                            "name": "ವಿಜ್ಞಾನ",
+                            "videos": [{
+                                "id": 3,
+                                "label": "Day-3",
+                                "link": "https://www.youtube.com/embed/Zk0JU9E_6aE"
+                            },{
+                                "id": 1,
+                                "label": "Day-1",
+                                "link": "https://www.youtube.com/embed/cson4dCNc3U"
+                            }]
+                        },{
+                            "id": 0,
+                            "name": "ಸಮಾಜ ವಿಜ್ಞಾನ",
+                            "videos": [{
+                                "id": 5,
+                                "label": "Day-5",
+                                "link": "https://www.youtube.com/embed/uxUMyC2oFSc"
+                            }]
+                            },{
+                            "id": 0,
+                            "name": "Urdu",
+                            "videos": [{
+                                "id": 3,
+                                "label": "Day-3",
+                                "link": "https://www.youtube.com/embed/0UnUK7W8c1E"
+                            }]
+                    },{
+                        "id": 0,
+                        "name": "Hindi",
+                        "videos": [{
+                            "id": 5,
+                            "label": "Day-5",
+                            "link": "https://www.youtube.com/embed/C2yCsmd76Bk"
+                        }]
+                    },{
+                        "id": 0,
+                        "name": "Sanskrit",
+                        "videos": [{
+                            "id": 5,
+                            "label": "Day-5",
+                            "link": "https://www.youtube.com/embed/c96-rQ-CF4g"
                         }
+                        ]
+                    }
                     ]
                 },
                 {
@@ -102,12 +157,111 @@
                             "label": "Day-4",
                             "link": "https://www.youtube.com/embed/oQM1HhbHUEk"
                         }]
-                    }]
+                    },{
+                        "id": 0,
+                        "name": "Urdu",
+                        "videos": [{
+                            "id": 2,
+                            "label": "Day-2",
+                            "link": "https://www.youtube.com/embed/SYCNcQxUvvc"
+                        }]
+                }]
                 },
                 {
                     "lablel": "10 ನೇ ತರಗತಿ",
                     "id": 2,
-                    "subjects": []
+                    "subjects": [{
+                        "id": 0,
+                        "name": "ಕನ್ನಡ",
+                        "videos": [{
+                            "id": 1,
+                            "label": "Day-1",
+                            "link": "https://www.youtube.com/embed/ynGU2hNrvHg"
+                        },{
+                            "id": 4,
+                            "label": "Day-4",
+                            "link": "https://www.youtube.com/embed/-Rkou_w9G1Y"
+                        }]
+                        },{
+                        "id": 0,
+                        "name": "ಗಣಿತ",
+                        "videos": [{
+                            "id": 1,
+                            "label": "Day-1",
+                            "link": "https://www.youtube.com/embed/rFObEfiNfuI"
+                        },{
+                            "id": 3,
+                            "label": "Day-3",
+                            "link": "https://www.youtube.com/embed/1vFok-pnA_A"
+                        }]
+                    },{
+                        "id": 0,
+                        "name": "ವಿಜ್ಞಾನ",
+                        "videos": [{
+                            "id": 1,
+                            "label": "Day-1",
+                            "link": "https://www.youtube.com/embed/H8-OKYzKc2I"
+                        },{
+                            "id": 2,
+                            "label": "Day-2",
+                            "link": "https://www.youtube.com/embed/M1wpX9VmkgM"
+                        },{
+                            "id": 5,
+                            "label": "Day-5",
+                            "link": "https://www.youtube.com/embed/X3SNv7x2_p0"
+                        }]
+                    }{
+                        "id": 0,
+                        "name": "ಸಮಾಜ ವಿಜ್ಞಾನ",
+                        "videos": [{
+                            "id": 2,
+                            "label": "Day-2",
+                            "link": "https://www.youtube.com/embed/R9YTteWtuEE"
+                        },{
+                            "id": 4,
+                            "label": "Day-4",
+                            "link": "https://www.youtube.com/embed/gNhFM0kJyVU"
+                        },{
+                            "id": 5,
+                            "label": "Day-5",
+                            "link": "https://www.youtube.com/embed/9-b3TX0ZLlE"
+                        }]
+                        },{
+                        "id": 0,
+                        "name": "English",
+                        "videos": [{
+                            "id": 0,
+                            "label": "Day-3",
+                            "link": "https://www.youtube.com/embed/hhwspE0CPZI"
+                        },{
+                            "id": 5,
+                            "label": "Day-5",
+                            "link": "https://www.youtube.com/embed/ceK_hNA-A0A"
+                        }]
+                    },{
+                        "id": 0,
+                        "name": "Hindi",
+                        "videos": [{
+                            "id": 3,
+                            "label": "Day-3",
+                            "link": "https://www.youtube.com/embed/a8whFdKqGTk"
+                        }]
+                    },{
+                        "id": 0,
+                        "name": "Sanskrit",
+                        "videos": [{
+                            "id": 4,
+                            "label": "Day-4",
+                            "link": "https://www.youtube.com/embed/14Gi9S-APRE"
+                        },{
+                            "id": 0,
+                            "name": "Urdu",
+                            "videos": [{
+                                "id": 4,
+                                "label": "Day-4",
+                                "link": "https://www.youtube.com/embed/TfyHMi3JnXs"
+                            }]
+                    }]
                 }
             ]
         },
