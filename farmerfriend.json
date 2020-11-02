@@ -17,8 +17,8 @@
                 "hn":"Update available",
                 "ma":"Update available"
         },
-        "forceupdate": true,
-        "currentversion" : 110
+        "forceupdate": false,
+        "currentversion" : 111
     }
     }
 }
